@@ -4,7 +4,7 @@ An interactive demo for the AI Engineering post
 **"Your Model Scored 97%, Then Failed on Real Data: How to Build and Test It the Right Way"**
 (K-fold cross validation, explained simply).
 
-By **Nagaraju Poralla**, AI Engineering series · [aiengineer.help](https://aiengineer.help)
+By **Nagaraju Poralla**
 
 ![Single split vs K-fold](screenshots/02b-single-vs-kfold-charts.png)
 

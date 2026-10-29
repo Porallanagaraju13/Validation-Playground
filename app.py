@@ -1,6 +1,6 @@
 """Validation Playground: a hands-on demo for the post
 'Your Model Scored 97%, Then Failed on Real Data: How to Build and Test It the Right Way'
-By Nagaraju Poralla, AI Engineering series · aiengineer.help
+By Nagaraju Poralla
 """
 import random
 
@@ -394,7 +394,6 @@ with st.expander("Peek at the data"):
 
 # ------------------------------------------------------------------ footer
 st.markdown(
-    '<div class="footer">By Nagaraju Poralla, AI Engineering series · '
-    '<a href="https://aiengineer.help" target="_blank">aiengineer.help</a></div>',
+    '<div class="footer">By Nagaraju Poralla</div>',
     unsafe_allow_html=True,
 )
